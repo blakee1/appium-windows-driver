@@ -1,6 +1,6 @@
 {
   "name": "@msteams/appium-windows-driver",
-  "version": "1.21.2",
+  "version": "1.21.3",
   "description": "Teams fork of Appium bridge to WinAppDriver",
   "keywords": [
     "appium",
@@ -43,7 +43,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "appium-base-driver": "^7.0.0",
-    "appium-support": "npm:@msteams/appium-support@2.54.4",
+    "appium-support": "npm:@msteams/appium-support@^2.54.4",
     "asyncbox": "^2.3.1",
     "bluebird": "^3.5.1",
     "lodash": "^4.6.1",
