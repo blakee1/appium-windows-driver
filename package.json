@@ -1,6 +1,6 @@
 {
   "name": "@msteams/appium-windows-driver",
-  "version": "1.21.1",
+  "version": "1.21.2",
   "description": "Teams fork of Appium bridge to WinAppDriver",
   "keywords": [
     "appium",
